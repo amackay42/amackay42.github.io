@@ -11,8 +11,6 @@ Iowa State University class of 2021
 
 Bachelor of Science in Management Information Systems
 
-ACACIA Fraternity - Leadership Roles: Recruitment Chair, Brotherhood Chair
-
 # Work Experience
 
 ## Inseer, Inc
