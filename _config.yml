@@ -1,22 +1,5 @@
-title: Aidan Mackay - Full Stack Software Engineer
-description: Full Stack Software Engineer specializing in Angular, MongoDB, Node.js, Express.js, AWS, and D3.js. Proficient in JavaScript, TypeScript, and CSS/SCSS. Skillset emphasizes interactive data visualization, quality assurance, and managing data input/output via machine learning algorithms. Experienced in client relationship management, project prioritization, and team leadership. Thriving in a highly independent, results-driven small team environment. US and Canadian citizen seeking software engineering opportunities.
+title: Aidan Mackay
+description: Full Stack Software Engineer
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
-name: CI
-
-on: [push]
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v2
-
-      - name: Set execute permissions for bootstrap
-        run: chmod +x script/bootstrap
-
-      - name: Run bootstrap script
-        run: ./script/bootstrap
-        shell: sh
