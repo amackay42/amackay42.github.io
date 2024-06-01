@@ -3,3 +3,20 @@ description: Full Stack Software Engineer specializing in Angular, MongoDB, Node
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set execute permissions for bootstrap
+        run: chmod +x script/bootstrap
+
+      - name: Run bootstrap script
+        run: ./script/bootstrap
+        shell: sh
