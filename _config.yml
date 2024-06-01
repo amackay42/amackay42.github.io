@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Aidan Mackay - Full Stack  Software Engineer
+title: Aidan Mackay - Full Stack Software Engineer
 email: aidan.mackay42@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- Aidan Mackay's personal portfolio website(Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.)
+ Full Stack Software Engineer specializing in Angular, MongoDB, Node.js, Express.js, AWS, and D3.js. Proficient in JavaScript, TypeScript, and CSS/SCSS. Skillset emphasizes interactive data visualization, quality assurance, and managing data input/output via machine learning algorithms. Experienced in client relationship management, project prioritization, and team leadership. Thriving in a highly independent, results-driven small team environment. US and Canadian citizen seeking software engineering opportunities.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "aidanmackay.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: TwitterName
