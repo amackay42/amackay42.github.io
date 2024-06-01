@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Aidan Mackay
+title: Aidan Mackay - Full Stack  Software Engineer
 email: aidan.mackay42@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Aidan Mackay's personal portfolio website(Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.)
@@ -28,7 +28,9 @@ url: "aidanmackay.com" # the base hostname & protocol for your site, e.g. http:/
 github_username:  amackay42
 
 # Build settings
-theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 plugins:
   - jekyll-feed
