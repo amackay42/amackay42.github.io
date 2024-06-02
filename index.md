@@ -2,6 +2,10 @@
 layout: default
 ---
 
+# Aidan Mackay
+
+<!-- TODO: why the hell does this top line auto populate title when pushed -->
+
 # About Me
 
 ---
