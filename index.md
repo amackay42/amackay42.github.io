@@ -55,10 +55,10 @@ Machine-learning and computer vision based ergonomic software company.
 - Implemented responsive design and ensured cross-browser compatibility.
 - Managed deployments and maintained CI/CD pipelines.
 
-**Achievements:**
+<!-- **Achievements:** -->
 
-- [Achievement 1 related to your time as Junior Full Stack Engineer]
-- [Achievement 2 related to your time as Full Stack Engineer]
+<!-- - [Achievement 1 related to your time as Junior Full Stack Engineer] -->
+<!-- - [Achievement 2 related to your time as Full Stack Engineer] -->
 
 ### Full Stack Engineering Intern
 
