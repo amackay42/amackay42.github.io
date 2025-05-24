@@ -11,7 +11,7 @@ Hello! I'm Aidan Mackay, a passionate Full Stack Developer with expertise in fro
 <!--
 Full Stack Software Engineer specializing in Angular, MongoDB, Node.js, Express.js, AWS, and D3.js. Proficient in JavaScript, TypeScript, and CSS/SCSS. Skillset emphasizes interactive data visualization, quality assurance, and managing data input/output via machine learning algorithms. Experienced in client relationship management, project prioritization, and team leadership. Thriving in a highly independent, results-driven small team environment. US and Canadian citizen. -->
 
-- **Location:** Iowa City, IA
+- **Location:** Minneapolis, MN
 - **Email:** aidan.mackay42@gmail.com
 - **GitHub:** [amackay42](https://github.com/amackay42)
 - **GitLab:** [amackay42](https://gitlab.com/amackay42)
